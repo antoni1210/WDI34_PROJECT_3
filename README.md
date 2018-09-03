@@ -33,7 +33,6 @@ The application should:
 - Bcrypt
 - Express
 - Mongoose
-- Mongoose
 - Filepicker
 - Git
 - GitHub
